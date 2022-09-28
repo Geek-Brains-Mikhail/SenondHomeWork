@@ -1,0 +1,16 @@
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\все кроме важного\school\C# HomeWork\SecondHomeWork\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
